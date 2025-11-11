@@ -1,8 +1,5 @@
-# TSP.github.io
-This is the public version of my private repository containing my academic paper on the TSP. The title page has been removed for privacy reasons.
+# Paper: Traveling Salesman Problem
 
----
+This is the public version of my [private repository](https://github.com/Cuppixx/TravelingSalesmanProblem_AcademicPaper) containing my academic paper on the TSP.
 
-**Deployed at:** https://cuppixx.github.io/TSP.github.io/
-
----
+Some pages have been removed for privacy reasons.
