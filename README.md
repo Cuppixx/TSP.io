@@ -1,4 +1,4 @@
-# Paper: Traveling Salesman Problem
+# TSP.io
 
 <p align="center">
 <a href="https://github.com/Cuppixx/TravelingSalesmanProblem_AcademicPaper"><img src="https://img.shields.io/badge/Original File From-June 28th 2024-blue" /></a>
@@ -6,9 +6,10 @@
 <a href="https://github.com/Cuppixx/TravelingSalesmanProblem_AcademicPaper"><img src="https://img.shields.io/badge/Original File-blue" /></a>
 </p>
 
-This is the public version of my private repository containing my academic paper on the TSP.
-
+<div>
+This is the public version of my private repository containing my academic paper on the TSP.<br>
 Some pages have been removed for privacy reasons.
+</div>
 
 ## Bibliography
 
